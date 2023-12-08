@@ -1,0 +1,7 @@
+first creat a file
+then commond {git add fielName}
+you can check status using {git status}
+now this file is added to statging area
+now we should to do commit this file 
+for commit the file use commond {git commit -m "myMsg"}
+now we can check using commond line {git log}

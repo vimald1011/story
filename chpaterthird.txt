@@ -1,0 +1,8 @@
+this is my third chapter and final one....
+
+in this chapter i write a new line of code 
+
+for check diffrece in old and new file content and codes i use this commond {git diff fileName}
+
+if i want to reverse my file content i use this commond {git checkout fileName}
+
